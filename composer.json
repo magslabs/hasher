@@ -1,5 +1,5 @@
 {
-    "name": "masollano/custom-hasher",
+    "name": "magslabs/custom-hasher",
     "description": "A Custom Hasher for hashing values using different types of hashing",
     "type": "library",
     "autoload": {
