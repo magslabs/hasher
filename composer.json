@@ -1,0 +1,19 @@
+{
+    "name": "masollano/custom-hasher",
+    "description": "A Custom Hasher for hashing values using different types of hashing",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Masollano\\CustomHasher\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "masollano",
+            "email": "sollano.markangelo@gmail.com"
+        }
+    ],
+    "require": {
+        "laravel/framework": "^10.10"
+    }
+}
